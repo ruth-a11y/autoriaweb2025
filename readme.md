@@ -4,11 +4,11 @@
 
 ### Instruções
 
-1. **Acesse e Copie** HTML da atividade que está no link. Depois, crie um arquivo chamado `seunome-card.html`, no seu computador.
+1. **Acesse e Copie** o código HTML da atividade que está na pasta ´´´/atv-1´´´. Depois, crie um arquivo chamado `seunome-card.html`, no seu computador.
 
 2. **Crie** o CSS skeleton em `seunome-card.css`. A partir de agora você deverá criar um arquivo de CSS separado. Para deixar mais organizado.
 
-3. **Acesse e copie o código** no arquivo CSS de exemplo. Depois, no seu arquivo CSS criado, cole o código copiado.
+3. **Acesse e copie o código** no arquivo CSS de exemplo, localizado na mesma pasta. Depois, no seu arquivo CSS criado, cole o código copiado.
 
 4. **Preencha** cada comentário de CSS com valores reais:
 
