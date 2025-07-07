@@ -48,6 +48,11 @@ Nesta atividade você irá trabalhar com características muito parecidas com a 
 2. Há ícones de estrelas para serem adicionados como imagens, um ao lado do outro.
 3. O tamanho do botão é diferente e está alinhado ao centro.
 
+Imagem de referência.
+![image](https://github.com/user-attachments/assets/983373eb-62e3-414e-a059-a97bf2f6e9bb)
+
+
+
 ### Instruções
 
 1. **Acesse e veja** o código HTML da atividade que está na pasta ´´´/atv-2´´´. Depois, crie um arquivo chamado `seunome-card.html`, no seu computador. Lembre-se de criar uma pasta com o mesmo nome, pois você precisará enviar para o GSA.
