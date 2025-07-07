@@ -11,7 +11,7 @@
 .card figure img {
   /* width: 100%; */
   /* height: auto; */
-  /* display: block; */
+  /* display: (bloco); */
 }
 
 /* 3. Corpo do card */
@@ -45,7 +45,7 @@
 
 /* 7. Botão */
 .card-btn {
-  /* display: inline-block; */
+  /* display: (em linha e bloco); */
   /* padding: (espaço interno do botão); */
   /* background-color: (cor de fundo do botão); */
   /* color: (cor do texto do botão); */
