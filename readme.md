@@ -24,7 +24,7 @@
    - Parágrafo legível e botão destacado
 
 6. **Entregue** ambos os arquivos no Google Sala de Aula (GSA).
-   - Selecione a pasta do projeto e crie um arquivo **seunome-ativ5.zip**
+   - Selecione a pasta do projeto e crie um arquivo **seunome-atv-5.zip**
    - Envie o arquivo no GSA
 
 Nas próximas aulas teremos uma **lista de exercícios** para reforçar todos estes temas:
