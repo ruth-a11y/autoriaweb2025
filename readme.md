@@ -1,18 +1,18 @@
 ### Práticas
 
-**Atividade 3 | 14 / 07**
+**Atividade 3 | ```14 / 07```**
 
 Nesta atividade iremos trabalhar na montagem de uma página completa: Montando a Página de Tipografia.
 
 Os principais pontos dessa atividade são:
 
-1. Separação em blocos usando a tag ´´´<section>´´´;
+1. Separação em blocos usando a tag ```<section>```;
 2. Alinhamento de blocos no centro, como um container;
 3. Uso de Flebox para alinhar os itens.
 
 ### Instruções
 
-1. **Acesse e veja** o código HTML da atividade que está na pasta ´´´/atv-3´´´.
+1. **Acesse e veja** o código HTML da atividade que está na pasta ```/atv-3```.
 
 2. **Crie seu arquivo local**: Depois, crie um arquivo chamado `seunome-tipografia.html`, no seu computador. Lembre-se de criar uma pasta com o mesmo nome da atividade, pois você precisará enviar para o GSA.
 
@@ -28,6 +28,8 @@ Os principais pontos dessa atividade são:
    - Para esta entrega, você deverá enviar a pasta inteira do projeto em um arquivo **.zip**
    - Selecione a pasta, com o botão direito do mouse, selecione enviar para, arquivo zip (pasta compactada) e crie um arquivo com **seunome-atv-7.zip**
    - Envie o arquivo no GSA
+  
+---
 
 **Atividade 2**
 
