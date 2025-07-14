@@ -4,12 +4,11 @@
 
 Nesta atividade iremos trabalhar na montagem de uma página completa: Montando a Página de Tipografia.
 
-1. A foto será diferente (alinhamento central, item arredondado).
-2. Há ícones de estrelas para serem adicionados como imagens, um ao lado do outro.
-3. O tamanho do botão é diferente e está alinhado ao centro.
+Os principais pontos dessa atividade são:
 
-Imagem de referência.
-![image](https://github.com/user-attachments/assets/983373eb-62e3-414e-a059-a97bf2f6e9bb)
+1. Separação em blocos usando a tag ´´´<section>´´´;
+2. Alinhamento de blocos no centro, como um container;
+3. Uso de Flebox para alinhar os itens.
 
 ### Instruções
 
